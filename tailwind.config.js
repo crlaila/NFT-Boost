@@ -17,6 +17,8 @@ module.exports = {
 				// Color Palette Project
 				'blue-primary': "#1D4FFE",
 				'green-primary': "#4BC397",
+				'gray-border-card': "#131317",
+				'gray-area-favorite': "#05030A",
 
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
@@ -68,6 +70,11 @@ module.exports = {
 
 			maxWidth: {
 				grid: '77.5rem',
+				'card-nft': '17.4rem'
+			},
+
+			height: {
+				'area-img-nft': '14.7rem'
 			}
 		}
 	},
